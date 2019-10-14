@@ -5,3 +5,6 @@ Yay! I have defied all odds and by magic created a new branch in GitHub. Who kne
 * New Folder
 
 What! Sorcery! It's not possible for someone to actually create a new folder in GitHub! Who would've thought it possible to perform an act of this magnitude!
+
+
+![stuff](https://raw.githubusercontent.com/pranay-venkatesh/Github-Task/Random-new-branch/code/randomgif.gif)
