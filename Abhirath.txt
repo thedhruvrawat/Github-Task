@@ -1,0 +1,1 @@
+Django, Node.js, CS50, STL in C++, Competitive Programming.
