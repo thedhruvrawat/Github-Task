@@ -1,0 +1,7 @@
+Since I joined ACM I learned:
+	1. Shell scripting.
+	2. Hosting a django app.
+	3. More about Django.
+	4. APIs. How to work with them and how to write your  own APIs.
+	5. Pygame (currently learning)
+	6. Vim 
