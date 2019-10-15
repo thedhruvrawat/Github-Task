@@ -1,0 +1,5 @@
+Name:Anirudh Singh
+what have I learned after joining acm:
+->basics of python,
+->continued cs50, week 3 and done 1st assingment(whodunit).
+->dynamic programming from sig
